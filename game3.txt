@@ -1,0 +1,122 @@
+8
+L Gracz 1
+T Gracz 2
+E Gracz 3
+R Gracz 4
+L Gracz 5
+T Gracz 6
+E Gracz 7
+R Gracz 8
+110
+S
+O 8
+D
+.
+P 28 Momento Mori, Doctor Who!
+O 2
+.
+.
+O 1 I deem this place to be ideal to place some quotes
+P 3 If you stare into the Abyss long enough the Abyss stares back at you
+P
+P 1 May be this is a good place to put my favorite latin maximas???
+R
+.
+P 15 Amor ut lacrima, ab oculo oritur in cor cadit
+.
+.
+O 3
+.
+.
+P
+.
+O 3 Quos Deus perdere vult, dementat prius
+.
+.
+.
+.
+D
+.
+.
+O 1
+.
+.
+.
+P -8 Qui totum vult, totum perdit
+.
+.
+P 5 Ad meliora, Doctor Who!
+P 3 Do Doctor Who's have enemies??? If yes then Who?
+P -10 Player, Do you know it is a simulation? What if our world is just a little bit more sophisticated one? 
+P 3
+P 2 
+P -31 You got so far, take a few [is 31 considered a few???] steps back
+R
+.
+.
+O 2 The waiting Abyss
+O 3
+O 4
+O 1
+O 1S
+.
+.
+.
+P -28 Qui totum vult, totum perdit
+P -28 Qui totum vult, totum perdit
+P -28 Qui totum vult, totum perdit
+P -28 Qui totum vult, totum perdit
+R
+.
+.
+.
+.
+O 3
+O 2
+O 5
+D
+.
+.
+.
+.
+.
+P 30 Alea iacta est [pun is inteded]
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+D
+
+
